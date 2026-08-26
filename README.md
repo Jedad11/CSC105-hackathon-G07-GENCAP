@@ -82,6 +82,21 @@ I worked on the backend: authentication (sign in / sign up with JWT), the exam
 scoring flow, and the choice/answer submission logic, alongside CORS setup and
 API integration with the frontend team.
 
+## Screenshots
+
+Walkthrough of the exam flow — sign up, sign in, take the multiple-choice quiz, and see the score.
+
+| | |
+|---|---|
+| **Home page** | ![Home page](./screenshots/01-home.png) |
+| **Sign up** | ![Sign up](./screenshots/02-signup.png) |
+| **Sign in** | ![Sign in](./screenshots/03-signin.png) |
+| **Logged in** | ![Logged in](./screenshots/04-logged-in-home.png) |
+| **Exam question** | ![Exam question](./screenshots/05-exam-question1.png) |
+| **Correct answer feedback** | ![Correct answer](./screenshots/06-answer-correct.png) |
+| **Final question** | ![Final question](./screenshots/07-last-question-answered.png) |
+| **Result screen** | ![Result screen](./screenshots/08-result.png) |
+
 ## About the Project
 
 Built during a CSC105 hackathon at KMUTT as a team project (Team G07). This
